@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Votre Serveur";
+var l_serverName = "CMB Roleplay";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -51,11 +51,6 @@ Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/fond1.jpg",
-	"backgrounds/images/fond2.jpg",
-	"backgrounds/images/fond3.jpg",
-	"backgrounds/images/fond4.jpg",
-	"backgrounds/images/fond5.jpg",
-	"backgrounds/images/fond6.jpg",
 ]
 
 /*Random background images order?*/
@@ -87,14 +82,14 @@ var l_musicDisplay = true;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
-var l_musicPlaylist = [https://www.youtube.com/watch?v=iy61r3Qkm6o];
+var l_musicPlaylist = [/watch?v=iy61r3Qkm6o];
 
 /*Random music order?*/
 var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 5;
+var l_musicVolume = 10;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = false;
